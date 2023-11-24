@@ -20,5 +20,5 @@
 
 
 - 🔭 I’m currently working on personal projects for portfolio composition
-- 🌱 I’m currently learning Angular + TS
+- 🌱 I’m currently learning Frontend Development (Angular + TS)
 - 📫 How to reach me: rafaellylemos@hotmail.com
