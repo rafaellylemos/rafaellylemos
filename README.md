@@ -21,4 +21,5 @@
 
 - 🔭 I’m currently working on personal projects for portfolio composition
 - 🌱 I’m currently learning Frontend Development (Angular + TS)
+- 📚​ I'm studying Systems Analysis and Development at UNINASSAU
 - 📫 How to reach me: rafaellylemos@hotmail.com
