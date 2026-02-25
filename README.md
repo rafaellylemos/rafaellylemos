@@ -1,8 +1,9 @@
 # Hi, I'm Rafaelly Lemos! 👋
+## But you can call me Rafa ;)
 
-### Frontend Developer | React & Angular Specialist 🚀
+### Frontend Developer | React & Angular 🚀
 
-I'm a Frontend Developer with experience building high-impact web applications at **Zexter** and **Lila**. My focus is on creating scalable, high-performance interfaces, maintaining clean architecture, and ensuring seamless user experiences.
+I'm a Frontend Developer with experience building high-impact web applications in dynamic corporate environments. My focus is on creating scalable, high-performance interfaces, maintaining clean architecture and delivering seamless user experiences in agile environments.
 
 ---
 
@@ -30,8 +31,8 @@ I'm a Frontend Developer with experience building high-impact web applications a
 
 ### 🚀 Professional Highlights
 
-- 🏢 **Experience:** Proven track record at **Zexter** and **Lila**, delivering robust frontend solutions.
-- 🌍 **International Collaboration:** Experience working within global squads and agile environments.
+- 🏢 **Experience:** Delivered robust frontend solutions for large-scale projects and tech consultancies.
+- 🌍 **International Collaboration:** Extensive experience working within global squads and high-performing agile teams.
 - 📐 **Methodology:** Clean Code, Component-Driven Development, and Performance Optimization.
 - 🎓 **Education:** Systems Analysis and Development at UNINASSAU.
 
